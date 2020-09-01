@@ -19,6 +19,6 @@
 
 ## airtest报告实例
 
-![image-20200901233952106](https://i.loli.net/2020/09/01/DNX3qSCEQyfB46o.png)
+![image-20200901233952106](images/PNG01.png)
 
-![image-20200901234314679](https://i.loli.net/2020/09/01/ZLOWzwTxV2gH3DU.png)
+![image-20200901234314679](images/PNG02.png)
