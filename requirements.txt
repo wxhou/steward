@@ -1,9 +1,9 @@
 # Airtest Project Dependencies
 # Python 3.9+
 
-# Core
+# Core (注意: poco 1.0 需要用 pocoui 包)
 airtest==1.4.3
-poco==0.99.3
+pocoui==1.0.94
 
 # Testing
 pytest==8.4.2
