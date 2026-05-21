@@ -1,0 +1,49 @@
+# 智学网页面数据配置
+
+# 页面元素定位数据
+page_elements:
+  首页:
+    - name: "首页按钮"
+      type: "text"
+      value: "首页"
+    - name: "搜索框"
+      type: "name"
+      value: "search_input"
+
+  登录页:
+    - name: "用户名输入框"
+      type: "name"
+      value: "login_name"
+    - name: "密码输入框"
+      type: "name"
+      value: "login_pwd"
+    - name: "登录按钮"
+      type: "name"
+      value: "login_btn"
+
+  个人中心:
+    - name: "我的"
+      type: "text"
+      value: "我的"
+    - name: "头像"
+      type: "name"
+      value: "head_collect"
+    - name: "退出按钮"
+      type: "name"
+      value: "btn_user_exit"
+
+# 测试数据
+test_data:
+  # 登录账号
+  accounts:
+    - username: "test001"
+      password: "test001"
+      role: "学生"
+
+# 图片命名映射
+image_names:
+  common:
+    - "关闭按钮"
+    - "返回"
+    - "确定"
+    - "取消"

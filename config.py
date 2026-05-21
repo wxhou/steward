@@ -26,12 +26,12 @@ ini = {
 
 # 页面数据
 elements = {
-    'zhixue': os.path.join(BASE_DIR, 'zhixue', 'element')
+    'zhixue': os.path.join(apps['zhixue'], 'element')
 }
 
 # airtest_img
 airImg = {
-    'zhixue': os.path.join(BASE_DIR, 'zhixue', 'images')
+    'zhixue': os.path.join(apps['zhixue'], 'images')
 }
 
 if __name__ == '__main__':
